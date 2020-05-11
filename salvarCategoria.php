@@ -1,6 +1,6 @@
 <?php
 
-$nome = $_POST['txtNome'];
+$nomepessoa = $_POST['txtNome'];
 $fabricante = $_POST['txtMarca'];
 $modelo = $_POST['txtModelo'];
 $ano = $_POST['txtAno'];
